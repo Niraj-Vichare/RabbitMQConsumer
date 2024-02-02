@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Enterprise.RabbitMQReceive
+build_property.ProjectDir = C:\Storage\OTHER\College\B.TECH\Work\HexWireless\Work\Enterprise.RabbitMQ\Enterprise.RabbitMQReceive\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
